@@ -1,6 +1,1 @@
-resources/*
-!*Makefile
-!resources/snps/human/Makefile
-!resources/**/*.r
-!resources/**/*.py
 
