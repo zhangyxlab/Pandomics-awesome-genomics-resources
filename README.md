@@ -1,6 +1,9 @@
 # pandomics
 DNA analysis scripts and databases
 
+## Useful software Tool kit:
+* seqtk (Toolkit for processing sequences in FASTA/Q formats): https://github.com/lh3/seqtk
+
 ## Useful databases and websites for genomics:
 
 * VISTA enhancer database: https://enhancer.lbl.gov/
