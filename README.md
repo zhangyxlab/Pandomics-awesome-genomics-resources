@@ -6,6 +6,8 @@ DNA analysis scripts and databases
 
 ## Useful databases and websites for genomics:
 
+* ENdb (experimentally validated enhancer database): http://www.licpathway.net/ENdb/index.php
+* HACER (Human Active Enhancer database):http://bioinfo.vanderbilt.edu/AE/HACER/　
 * VISTA enhancer database: https://enhancer.lbl.gov/
 * Jaspar transcription factor motif database: http://jaspar.genereg.net/
 * ChIP-Atlas (uniform processed chip-seq data): http://chip-atlas.org/
