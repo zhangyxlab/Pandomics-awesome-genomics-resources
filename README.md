@@ -9,6 +9,8 @@ DNA analysis scripts and databases
 * ENdb (experimentally validated enhancer database): http://www.licpathway.net/ENdb/index.php
 * HACER (Human Active Enhancer database):http://bioinfo.vanderbilt.edu/AE/HACER/　
 * VISTA enhancer database: https://enhancer.lbl.gov/
+* EnDisease (database of enhancer - disease): http://bioinfo.au.tsinghua.edu.cn/endisease/
+
 * Jaspar transcription factor motif database: http://jaspar.genereg.net/
 * ChIP-Atlas (uniform processed chip-seq data): http://chip-atlas.org/
 * ReMap: http://remap.univ-amu.fr/
