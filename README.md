@@ -15,7 +15,7 @@ DNA analysis scripts and databases
 * ChIP-Atlas (uniform processed chip-seq data): http://chip-atlas.org/
 * ReMap: http://remap.univ-amu.fr/
 
-* TopMed program (https://www.nhlbi.nih.gov/science/trans-omics-precision-medicine-topmed-program)
+* TopMed program (https://www.nhlbi.nih.gov/science/trans-omics-precision-medicine-topmed-program) (https://www.nature.com/articles/s41586-021-03205-y)
 
 ## Gene set Enrichment Testing tools
 
