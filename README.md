@@ -17,6 +17,9 @@ DNA analysis scripts and databases
 
 * TopMed program (https://www.nhlbi.nih.gov/science/trans-omics-precision-medicine-topmed-program) (https://www.nature.com/articles/s41586-021-03205-y)
 
+## Cancer 
+* Database for mutational cancer drivers:  [Integrative OncoGenomics](https://www.intogen.org/)
+* Database for cancer dependency screening: https://www.nature.com/articles/s41586-019-1103-9; Pediatric: https://www.nature.com/articles/s41588-021-00819-w
 ## Gene set Enrichment Testing tools
 
 * Enrichr
