@@ -20,6 +20,9 @@ DNA analysis scripts and databases
 ## Cancer 
 * Database for mutational cancer drivers:  [Integrative OncoGenomics](https://www.intogen.org/)
 * Database for cancer dependency screening: https://www.nature.com/articles/s41586-019-1103-9; Pediatric: https://www.nature.com/articles/s41588-021-00819-w
+* Gene expression summary for TCGA and GTEx: [GEPIA](http://gepia.cancer-pku.cn/)
+* cancer genomics mutational resources: [cBioPortal](https://www.cbioportal.org/)
+* 
 ## Gene set Enrichment Testing tools
 
 * Enrichr
